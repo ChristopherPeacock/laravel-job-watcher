@@ -15,7 +15,7 @@ When working on Laravel Jobs, you often have to stop and restart the queue worke
 Install via composer:
 
 ```bash
-composer require --dev ChristopherPeacock/laravel-job-watcher
+composer require christopherpeacock/laravel-job-watcher
 ```
 
 ## Usage
