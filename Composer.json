@@ -1,0 +1,19 @@
+{
+    "name": "christopherpeacock/job-watcher",
+    "description": "A PHP Laravel Job Watcher to auto-restart queue worker on job file changes.",
+    "keywords": ["laravel", "jobs", "queue", "watcher", "hot-reload"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Peacock",
+            "email": "Peacockchristopher15@gmail.com"
+        }
+    ],
+    "bin": [
+        "jobWatcher.php"
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
