@@ -28,10 +28,10 @@ vendor/bin/job-watcher.php
 
 The watcher will:
 
-- ✅ Monitor the `app/Jobs` directory for any PHP file changes
-- 🔄 Automatically restart the Laravel queue worker upon detecting changes
-- 📝 Print clear status messages to keep you informed
-- 🚀 Keep your development workflow smooth and uninterrupted
+- Monitor the `app/Jobs` directory for any PHP file changes
+- Automatically restart the Laravel queue worker upon detecting changes
+- Print clear status messages to keep you informed
+- Keep your development workflow smooth and uninterrupted
 
 ### Example Output
 
