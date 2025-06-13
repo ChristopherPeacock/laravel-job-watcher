@@ -23,7 +23,7 @@ composer require christopherpeacock/laravel-job-watcher
 Run from your Laravel project root folder:
 
 ```bash
-vendor/bin/laravel-job-watcher.php
+vendor/christopherpeacock/laravel-job-watcher/bin/laravel-job-watcher.php
 ```
 
 The watcher will:
