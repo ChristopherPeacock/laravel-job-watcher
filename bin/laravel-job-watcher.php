@@ -8,7 +8,7 @@
  * Author: Christopher Peacock
  */
 
-$watchDir = __DIR__ . '/app/Jobs';
+$watchDir = getcwd() . '/app/Jobs';
 $artisan  = PHP_OS_FAMILY === 'Windows' ? 'php artisan' : './artisan';
 $lastModTimes = [];
 $queueProcess = null;
