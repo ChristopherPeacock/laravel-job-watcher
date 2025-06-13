@@ -23,7 +23,7 @@ composer require christopherpeacock/laravel-job-watcher
 Run from your Laravel project root folder:
 
 ```bash
-vendor/bin/job-watcher.php
+vendor/bin/laravel-job-watcher.php
 ```
 
 The watcher will:
@@ -36,7 +36,7 @@ The watcher will:
 ### Example Output
 
 ```bash
-$ vendor/bin/job-watcher
+$ vendor/bin/laravel-job-watcher
 
 
 ```
